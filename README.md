@@ -1,4 +1,4 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture></p>
 
 <h1 align="center" style="color: #FF7F00;">Hi 👋, I'm Amila Suranjith</h1>
 <h3 align="center" style="color: #FFA500;">A curious builder who loves turning ideas into working systems. I explore code, design processes, and constantly push myself to learn better, smarter ways to solve problems.</h3>
@@ -9,7 +9,7 @@
 
 ---
 
-<h2 style="color: #FF7F00;">🚀 What I'm Up To</h2>
+<h2 align="center" style="color: #FF7F00;">🚀 What I'm Up To</h2>
 
 - 🔭 **Currently working on:** Learning Solution Engineering, improving system design skills, and understanding real-world problem-solving workflows.
 - 🌱 **Currently learning:** Full stack development, scalable architecture patterns, and automation tools.
@@ -51,5 +51,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-------
 
