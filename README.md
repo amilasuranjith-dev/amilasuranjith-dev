@@ -11,10 +11,10 @@
 
 <h2 align="center" style="color: #FF7F00;">🚀 What I'm Up To</h2>
 
-- 🔭 **Currently working on:** Learning Solution Engineering, improving system design skills, and understanding real-world problem-solving workflows.
+- 🔭 **Currently working on:** Learning Solution Engineering, improving system design skills, and understanding real world problem solving workflows.
 - 🌱 **Currently learning:** Full stack development, scalable architecture patterns, and automation tools.
 - 👯 **Looking to collaborate on:** Open source tools, workflow automation, and process tracking systems.
-- 🤝 **Looking for help with:** Turning early-stage prototypes into production-ready solutions.
+- 🤝 **Looking for help with:** Turning early stage prototypes into production ready solutions.
 - 💬 **Ask me about:** Java, JS/TS, UI concepts, system flows, or quick idea prototyping.
 - 📫 **How to reach me:** <a href="mailto:amilasuranjith.dev@gmail.com" style="color: #FFA500;">amilasuranjith.dev@gmail.com</a>
 - ⚡ **Fun fact:** My gaming alter-ego is “PSYCHO” and yes, I love it. 🎮
