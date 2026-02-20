@@ -64,25 +64,24 @@
 
 ---
 
-<!-- Quote -->
+<!-- Quote with neon orange border -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Abraham%20Lincoln&border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF7F00,FF4500&height=3&width=700&section=header" />
 </p>
-<!-- Snake Animation -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Abraham%20Lincoln&border=false" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF7F00,FF4500&height=3&width=700&section=footer" />
+</p>
+<!-- Contribution Calendar (no setup needed) -->
 <h2 align="center">🐍 My Contribution Snake</h2>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amilasuranjith-dev/amilasuranjith-dev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amilasuranjith-dev/amilasuranjith-dev/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/amilasuranjith-dev/amilasuranjith-dev/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7F00,FFA500&height=100&section=footer"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
+
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
