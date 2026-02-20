@@ -20,6 +20,12 @@
 - ⚡ **Fun fact:** My gaming alter-ego is “PSYCHO” and yes, I love it. 🎮
 
 ---
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amilasuranjith-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="trophies"/>
+</p>
+---
 <!-- Activity Graph -->
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
@@ -42,6 +48,25 @@
   <a href="https://instagram.com/amila_suranjith" target="blank" **style="text-decoration: none;"**><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="amila_suranjith" height="30" width="30" /></a>
 </p>
 
+---
+<!-- Skills Section -->
+<h2 align="center">🛠️ Languages and Tools</h2>
+<p align="center">
+  <img width="500px" src="https://skillicons.dev/icons?i=java,js,py,html,css,react,nodejs,spring,postgres,mysql,mongo,git,vscode,postman,tailwind,bootstrap,figma,ai,ps,discord&perline=10" />
+</p>
+<!-- Skill Bars via shields -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 ---
 
 <!--Languages and Tools Section-->     
