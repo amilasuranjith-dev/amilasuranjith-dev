@@ -35,19 +35,6 @@
 </p>
 
 ---
-<!-- GitHub Stats Grid -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amilasuranjith-dev&show_icons=true&theme=transparent&hide_border=true&title_color=FF7F00&icon_color=FFA500&text_color=ffffff&bg_color=00000000&rank_icon=github" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilasuranjith-dev&layout=compact&theme=transparent&hide_border=true&title_color=FF7F00&text_color=ffffff&bg_color=00000000&langs_count=8" height="165" alt="top langs" />
-</p>
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amilasuranjith-dev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FF7F00&background=00000000&ring=FF7F00&fire=FFA500&currStreakLabel=FFA500&sideLabels=FF7F00" alt="GitHub Streak" />
-</p>
-
-
----
 
 <!--Contact--> 
 <h2 align="center" style="color: #FF7F00;">🌐 Connect with Me</h2>
@@ -66,7 +53,36 @@
 </p>
 
 ---
+<!-- Currently Learning / WakaTime (optional placeholder) -->
+<h2 align="center">⚡ Currently Focusing On</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Solution%20Engineering-FF7F00?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Design-FFA500?style=for-the-badge&logo=diagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scalable%20Architecture-FF6B00?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation%20Tools-FF8C00?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
+---
+
+<!-- Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Abraham%20Lincoln&border=true" />
+</p>
+<!-- Snake Animation -->
+<h2 align="center">🐍 My Contribution Snake</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amilasuranjith-dev/amilasuranjith-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amilasuranjith-dev/amilasuranjith-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/amilasuranjith-dev/amilasuranjith-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7F00,FFA500&height=100&section=footer"/>
+</p>
+
+---
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
