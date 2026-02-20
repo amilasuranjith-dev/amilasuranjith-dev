@@ -74,11 +74,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF7F00,FF4500&height=3&width=700&section=footer" />
 </p>
-<!-- Contribution Calendar (no setup needed) -->
-<h2 align="center">🐍 My Contribution Snake</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 ---
 
