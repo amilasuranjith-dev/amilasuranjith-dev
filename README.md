@@ -20,6 +20,12 @@
 - ⚡ **Fun fact:** My gaming alter-ego is “PSYCHO” and yes, I love it. 🎮
 
 ---
+<!-- Activity Graph -->
+<h2 align="center">📈 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amilasuranjith-dev&bg_color=00000000&color=FF7F00&line=FFA500&point=ffffff&area=true&hide_border=true&area_color=FF7F00" alt="Contribution Graph" />
+</p>
+---
 <!--Stats--> 
 
 <p align="center">
