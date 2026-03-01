@@ -24,14 +24,22 @@
 <!-- Activity Graph -->
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amilasuranjith-dev&bg_color=00000000&color=FF5C00&line=FFA500&point=ffffff&area=true&hide_border=true&area_color=FF7F00" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amilasuranjith-dev&bg_color=00000000&color=FF5C00&line=FFA500&point=ffffff&area=true&hide_border=true&area_color=FF7F00" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amilasuranjith-dev&bg_color=00000000&color=FF5C00&line=FFA500&point=FF5C00&area=true&hide_border=true&area_color=FF7F00" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amilasuranjith-dev&bg_color=00000000&color=FF5C00&line=FFA500&point=FF5C00&area=true&hide_border=true&area_color=FF7F00" alt="Contribution Graph" />
+  </picture>
 </p>
 
 ---
 
 <!--Stats--> 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amilasuranjith-dev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FF7F00&background=00000000&ring=FF7F00&fire=FFA500" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=amilasuranjith-dev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FF7F00&background=00000000&ring=FF7F00&fire=FFA500" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=amilasuranjith-dev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FF7F00&background=00000000&ring=FF7F00&fire=FFA500&currStreakNum=FF7F00&sideNums=FF7F00&currStreakLabel=FF5C00&sideLabels=FF5C00&dates=555555" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amilasuranjith-dev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FF7F00&background=00000000&ring=FF7F00&fire=FFA500&currStreakNum=FF7F00&sideNums=FF7F00&currStreakLabel=FF5C00&sideLabels=FF5C00&dates=555555" alt="GitHub Streak" />
+  </picture>
 </p>
 
 ---
