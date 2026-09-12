@@ -11,13 +11,14 @@
 
 <h2 align="center" style="color: #FF7F00;">🚀 What I'm Up To</h2>
 
-- 🔭 **Currently working on:** Learning Solution Engineering, improving system design skills, and understanding real world problem solving workflows.
-- 🌱 **Currently learning:** Full stack development, scalable architecture patterns, and automation tools.
+- 💼 **Currently:** Software Engineer Intern at **Syigen (Pvt) Ltd** (since June 2026), building full stack and desktop applications.
+- 🔭 **Recently shipped:** A POS system for mid-level businesses built with **Tauri + React + Rust**, preceded by a competitive analysis of 10 existing global POS platforms to shape the MVP feature set.
+- 🌱 **Currently learning:** Solution engineering, scalable architecture patterns, and automation tooling.
 - 👯 **Looking to collaborate on:** Open source tools, workflow automation, and process tracking systems.
 - 🤝 **Looking for help with:** Turning early stage prototypes into production ready solutions.
-- 💬 **Ask me about:** Java, JS/TS, UI concepts, system flows, or quick idea prototyping.
-- 📫 **How to reach me:** <a href="mailto:amilasuranjith.dev@gmail.com" style="color: #FFA500;">amilasuranjith.dev@gmail.com</a>
-- ⚡ **Fun fact:** My gaming alter-ego is “PSYCHO” and yes, I love it. 🎮
+- 💬 **Ask me about:** Next.js + Supabase, Laravel, Django, Tauri/Rust desktop apps, Java, JS/TS, system design, or quick idea prototyping.
+- 📫 **How to reach me:** <a href="https://amilasuranjith.me" style="color: #FFA500;" target="_blank">amilasuranjith.me</a>
+- ⚡ **Fun fact:** My gaming alter-ego is "PSYCHO" and yes, I love it. 🎮
 
 ---
 
@@ -57,7 +58,7 @@
 <!--Languages and Tools Section-->     
 <h2 align="center" style="color: #FF7F00;" >🛠️ Languages and Tools</h2>  
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,js,py,html,css,react,nodejs,spring,postgres,mysql,mongo,git,vscode,postman,tailwind,bootstrap,figma,ai,ps,discord&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,nextjs,angular,nodejs,spring,laravel,django,rust,tauri,supabase,postgres,mysql,mongo,git,vscode,postman,tailwind,figma,ai,ps,discord&perline=9"  />
 </p>
 
 ---
@@ -77,7 +78,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF7F00,FF4500&height=3&width=700&section=header" />
 </p>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Abraham%20Lincoln&border=false" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Silent%20is%20Strategy...&author=Amila%20Suranjith&border=false" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF7F00,FF4500&height=3&width=700&section=footer" />
@@ -89,5 +90,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-
