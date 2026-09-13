@@ -4,7 +4,7 @@
 <h3 align="center" style="color: #FFA500;">A curious builder who loves turning ideas into working systems. I explore code, design processes, and constantly push myself to learn better, smarter ways to solve problems.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amilasuranjith-dev&label=PROFILE+VIEWS&color=FF7F00&style=for-the-badge" alt="amilasuranjith-dev" />
+  <img src="https://komarev.com/ghpvc/?username=amilasuranjith-dev&label=PROFILE+VIEWS&color=FF7F00&style=for-the-badge&v=2" alt="amilasuranjith-dev" />
 </p>
 
 ---
