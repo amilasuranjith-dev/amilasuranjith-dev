@@ -71,20 +71,9 @@
 
 ---
 
-<!-- Quote with neon orange border -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF7F00,FF4500&height=3&width=700&section=header" />
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Silent%20is%20Strategy...&author=Amila%20Suranjith&border=false" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF7F00,FF4500&height=3&width=700&section=footer" />
-</p>
-
----
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+<!-- Web UI Footer (Matching amilasuranjith.me) -->
+<div align="center">
+  <kbd style="background: #050508; color: #ff6b00; padding: 6px 16px; border-radius: 20px; border: 1px solid rgba(255,107,0,0.3); font-size: 12px;">
+    🟠 Designed & Engineered in Sri Lanka &bull; © 2026 Amila Suranjith
+  </kbd>
+</div>
