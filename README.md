@@ -22,14 +22,12 @@
 
 ---
 
-<!-- Activity Graph -->
-<h2 align="center">📈 Contribution Graph</h2>
+<!-- 3D Contribution City -->
+<h2 align="center" style="color: #FF7F00;">🏙️ Contribution City</h2>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amilasuranjith-dev&bg_color=00000000&color=FF5C00&line=FFA500&point=ffffff&area=true&hide_border=true&area_color=FF7F00" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amilasuranjith-dev&bg_color=00000000&color=FF5C00&line=FFA500&point=FF5C00&area=true&hide_border=true&area_color=FF7F00" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amilasuranjith-dev&bg_color=00000000&color=FF5C00&line=FFA500&point=FF5C00&area=true&hide_border=true&area_color=FF7F00" alt="Contribution Graph" />
-  </picture>
+  <a href="https://github.com/amilasuranjith-dev">
+    <img src="https://www.gitskins.com/api/section/city?username=amilasuranjith-dev&theme=autumn" alt="Amila Suranjith Contribution City" width="100%" />
+  </a>
 </p>
 
 ---
