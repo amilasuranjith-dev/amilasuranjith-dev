@@ -430,8 +430,9 @@ def generate_svg(
   </defs>
 
   <style>
-    .font-sans {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif; }}
-    .font-mono {{ font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }}
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600;800&amp;family=Space+Grotesk:wght@500;700&amp;family=Karla:wght@400;600&amp;display=swap');
+    .font-sans {{ font-family: "Outfit", "Space Grotesk", "Karla", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }}
+    .font-mono {{ font-family: "Space Grotesk", "Karla", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }}
 
     .pulse-dot {{ animation: pulse 2.4s ease-in-out infinite; transform-origin: center; }}
     .orb-float {{ animation: floatOrb 11s ease-in-out infinite; }}
@@ -446,8 +447,8 @@ def generate_svg(
       50% {{ transform: translate(18px, -12px); }}
     }}
     @keyframes fadeSlide {{
-      from {{ opacity: 0; transform: translateY(5px); }}
-      to {{ opacity: 1; transform: translateY(0px); }}
+      from {{ opacity: 0; }}
+      to {{ opacity: 1; }}
     }}
 
     /* 5-tier Cyber-Orange and Gold isometric shading */
