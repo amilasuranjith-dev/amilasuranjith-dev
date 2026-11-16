@@ -1,0 +1,66 @@
+name: Update 3D Contribution City & Purge Cache
+
+on:
+  schedule:
+    # Run daily at 00:00 Asia/Colombo (18:30 UTC)
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - dev
+    paths:
+      - 'scripts/generate_contribution_city.py'
+      - '.github/workflows/update-contribution-city.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-city:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate 3D Contribution City SVG
+        run: python scripts/generate_contribution_city.py
+
+      - name: Commit and push updated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-city.svg assets/streak-dark.svg assets/streak-light.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(profile): update 3D contribution city and streak SVGs"
+            git push origin "HEAD:${{ github.ref_name }}"
+          else
+            echo "No changes to generated SVGs"
+          fi
+
+      - name: Purge GitHub Camo cache for profile badges
+        run: |
+          python - << 'EOF'
+          import re
+          import urllib.request
+
+          profile_url = "https://github.com/amilasuranjith-dev"
+          req = urllib.request.Request(profile_url, headers={"User-Agent": "Mozilla/5.0"})
+          html = urllib.request.urlopen(req, timeout=20).read().decode("utf-8", errors="ignore")
+          camo_urls = sorted(set(re.findall(r"https://camo\.githubusercontent\.com/[a-f0-9]+/[a-f0-9]+", html)))
+          print(f"Found {len(camo_urls)} Camo image URLs")
+
+          for url in camo_urls:
+              try:
+                  purge_req = urllib.request.Request(url, method="PURGE", headers={"User-Agent": "Mozilla/5.0"})
+                  with urllib.request.urlopen(purge_req, timeout=15) as resp:
+                      body = resp.read().decode("utf-8", errors="ignore").strip()
+                      print(f"PURGE {resp.status} -> {body}")
+              except Exception as exc:
+                  print(f"PURGE failed for {url}: {exc}")
+          EOF

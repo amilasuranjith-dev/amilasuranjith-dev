@@ -26,7 +26,7 @@
 <h2 align="center" style="color: #FF7F00;">🏙️ Contribution City</h2>
 <p align="center">
   <a href="https://github.com/amilasuranjith-dev">
-    <img src="https://www.gitskins.com/api/section/city?username=amilasuranjith-dev&theme=autumn&v=3" alt="Amila Suranjith Contribution City" width="100%" />
+    <img src="./assets/contribution-city.svg" alt="Amila Suranjith Contribution City" width="100%" />
   </a>
 </p>
 
@@ -36,9 +36,9 @@
 <p align="center">
   <a href="https://github.com/amilasuranjith-dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=amilasuranjith-dev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FF7F00&background=00000000&ring=FF7F00&fire=FFA500&timezone=Asia%2FColombo&v=3" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=amilasuranjith-dev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FF7F00&background=00000000&ring=FF7F00&fire=FFA500&currStreakNum=FF7F00&sideNums=FF7F00&currStreakLabel=FF5C00&sideLabels=FF5C00&dates=555555&timezone=Asia%2FColombo&v=3" />
-      <img src="https://streak-stats.demolab.com/?user=amilasuranjith-dev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FF7F00&background=00000000&ring=FF7F00&fire=FFA500&currStreakNum=FF7F00&sideNums=FF7F00&currStreakLabel=FF5C00&sideLabels=FF5C00&dates=555555&timezone=Asia%2FColombo&v=3" alt="GitHub Streak" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/streak-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/streak-light.svg" />
+      <img src="./assets/streak-light.svg" alt="GitHub Streak" />
     </picture>
   </a>
 </p>
