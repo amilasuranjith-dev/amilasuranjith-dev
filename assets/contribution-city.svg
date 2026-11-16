@@ -127,7 +127,7 @@
       <rect x="89" y="39.5" width="12" height="10" rx="2.5" fill="#ff7f00"/>
       <rect x="104" y="39.5" width="12" height="10" rx="2.5" fill="#fbbf24"/>
       <text x="122" y="48" class="font-mono" font-size="8.5" font-weight="600" letter-spacing="0.6" fill="#fcd34d">MORE</text>
-      <text x="233" y="48" text-anchor="end" class="font-mono" font-size="9" fill="#fb923c">1,231 total</text>
+      <text x="233" y="48" text-anchor="end" class="font-mono" font-size="9" fill="#fb923c">1,234 total</text>
     </g>
 
     <!-- 3D Isometric Contribution City Visualization (Same 53x7 Data Grid) -->
