@@ -2,8 +2,10 @@ name: Update 3D Contribution City & Purge Cache
 
 on:
   schedule:
-    # Run daily at 00:00 Asia/Colombo (18:30 UTC)
-    - cron: '30 18 * * *'
+    # Run daily at 00:07 Asia/Colombo (18:37 UTC) and 12:07 Asia/Colombo (06:37 UTC)
+    # Off-peak minute avoids GitHub Actions :00/:30 UTC queue drops
+    - cron: '37 18 * * *'
+    - cron: '37 6 * * *'
   workflow_dispatch:
   push:
     branches:
@@ -38,6 +40,7 @@ jobs:
           git add assets/contribution-city.svg assets/streak-dark.svg assets/streak-light.svg
           if ! git diff --cached --quiet; then
             git commit -m "chore(profile): update 3D contribution city and streak SVGs"
+            git pull --rebase origin "${{ github.ref_name }}"
             git push origin "HEAD:${{ github.ref_name }}"
           else
             echo "No changes to generated SVGs"
